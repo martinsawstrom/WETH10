@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.4.21+commit.dfe3193c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "go",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/3WETH9.sol": "Caller"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/3WETH9.sol": {
+			"keccak256": "0xfca0d4d1efb5841393de408146b944bf1467bd3a560df3aaecbf04c10d597317",
+			"urls": [
+				"bzzr://746451a589f06b98c63f3a05db50bdf7da3251e141730a18e738497b50cde8f7"
+			]
+		}
+	},
+	"version": 1
+}
